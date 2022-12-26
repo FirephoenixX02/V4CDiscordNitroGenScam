@@ -1,4 +1,5 @@
 # !!! THIS IS A SCAM !!!
+## ! DO NOT RUN !
 ### I deobfuscated a replit Discord Nitro Gen to prove that its a scam.
 ### It buteforce generates Discord Nitro code which not only would get your account banned but also takes ages.
 ### Any valid code would be send to the owner of replit via a discord webhook.
